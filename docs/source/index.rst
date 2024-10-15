@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+Debet - Nền tảng cá cược uy tín với hơn 10 triệu tài khoản đăng ký
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Debet <https://debet.forsale/>`_ là một nền tảng cá cược uy tín và đẳng cấp, nổi bật trên thị trường giải trí trực tuyến từ khi ra đời vào năm 2014. Nhanh chóng phát triển tại châu Á và chính thức gia nhập thị trường Việt Nam vào năm 2019, Debet hiện có hơn 10 triệu tài khoản đăng ký và là lựa chọn hàng đầu của người chơi cá cược. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với giao diện thân thiện, tương thích mọi thiết bị, Debet cam kết mang đến trải nghiệm tốt nhất với hệ thống bảo mật SSL 256-bit và dịch vụ CSKH 24/7 chuyên nghiệp. Người chơi có thể tham gia các trò chơi đa dạng từ cá cược thể thao, bắn cá, Esports, lô đề đến live casino, tận hưởng tỷ lệ thưởng hấp dẫn và các chương trình khuyến mãi giá trị như thưởng nạp lần đầu lên đến 18 triệu VND. 
 
-.. note::
+Debet còn cung cấp nhiều phương thức giao dịch nhanh chóng và đảm bảo quyền lợi thành viên tối đa, tạo nên một hệ sinh thái giải trí xanh chín và an toàn.
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: 11 Trần Quý Cáp, Thành phố Buôn Ma Thuột, Đắk Lắk, Quận Ea Tam, 630000, Vietnam. 
 
-.. toctree::
+Phone: 0989 213 221. 
 
-   usage
-   api
+Email: debet.forsale@gmail.com. 
+
+Website: https://debet.forsale/ 
+
+#debet #trangchudebet #dangkydebet #dangnhapdebet #linkdebet
